@@ -24,7 +24,7 @@ cycler==0.12.1
 daphne==4.0.0
 dataclasses-json==0.6.3
 decorator==5.1.1
-Django==5.0
+Django==5.0.3
 django-vite==3.0.1
 djangorestframework==3.14.0
 earthengine-api==0.1.384
